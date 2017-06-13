@@ -2,8 +2,9 @@ require 'sinatra/base'
 
 class DataServer < Sinatra::Base
   set :port, 4000
+
   get '/' do
-    'Hello'
+    "Welcome to DataServer"
   end
 
 run if app_file == $0
