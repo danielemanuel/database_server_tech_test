@@ -6,7 +6,6 @@ class DataServer < Sinatra::Base
   enable :sessions
 
   get '/' do
-    "Welcome to DataServer"
     erb :index
   end
 
