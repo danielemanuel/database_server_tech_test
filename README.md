@@ -18,8 +18,8 @@ If you still have time at the end of the day, you can extend the code by adding 
 
 ## Insttructions
 
-* In the terminal start the server: rackup
-
+* In the terminal start the server: 
+  - rackup
 * In your browser:
   - localhost: 4000
 * This takes you to the home page:
